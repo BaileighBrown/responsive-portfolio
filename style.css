@@ -749,14 +749,11 @@ display:none;
      display:block;
    }
 
-   main .container .left .sidebar > div h3{
-      display:none;
-   }
-
    main .container .middle{
       grid-column:1/3;
    }
 
    main .container .right{
       display:none;
+}
 }
