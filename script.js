@@ -17,8 +17,6 @@ const Bg2 = document.querySelector('.bg-2');
 const Bg3 = document.querySelector('.bg-3');
 
 
-
-
 //remove active class from menu iems menu
 const changeActiveItem = () => {
     menuItems.forEach(item => {

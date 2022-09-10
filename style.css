@@ -319,13 +319,13 @@
   }
 
   .middle .stories .story:nth-child(1){
-    background:url('./img/ezgif.com-gif-maker.gif') no-repeat center center/cover;
+    background:url('./img/heroApp.png') no-repeat center center/cover;
   }
   .middle .stories .story:nth-child(2){
-    background:url('./img/tipCalc.gif') no-repeat center center/cover;
+    background:url('./img/chatApp.gif') no-repeat center center/cover;
   }
   .middle .stories .story:nth-child(3){
-    background:url('./img/ezgif.com-gif-maker.gif') no-repeat center center/cover;
+    background:url('./img/tipCalc.gif') no-repeat center center/cover;
   }
   .middle .stories .story:nth-child(4){
     background:url('./img/ezgif.com-gif-maker.gif') no-repeat center center/cover;
@@ -396,6 +396,10 @@ justify-content: space-between;
    font-size:1.4rem;
    margin:0.6rem;
 }
+
+.middle .feed .uil-heart:hover{
+    color: red;
+    }
 
 .middle .liked-by{
    display:flex;
