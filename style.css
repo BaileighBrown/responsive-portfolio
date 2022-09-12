@@ -343,7 +343,7 @@
   
   
   .middle .story .profile-photo{
-    width: 60%;
+    width: 2.5rem;
     height: 2rem;
     align-self: start;
     border: 3px solid var(--color-primary);
@@ -382,7 +382,7 @@
 }
 
 .middle .feeds .head{
-   display: flex;
+display: flex;
 justify-content: space-between;
 }
 
@@ -493,7 +493,7 @@ main .container .right{
 
 .right .messages .profile-photo{
    position: relative;
-   overflow:visible;
+   overflow:hidden;
 }
 
 .right .profile-photo img{
